@@ -11,6 +11,7 @@ This is a simple OpenGL-based demo project created with C++ and Visual Studio. I
 - Modular C++ structure with classes (e.g., Ship, Enemy, Bullet, Game)
 
 ## 📁 Project Structure
+```bash
 /OpenGLDemo_2
 ├── src/ # Source files
 ├── include/ # Header files
@@ -18,3 +19,4 @@ This is a simple OpenGL-based demo project created with C++ and Visual Studio. I
 ├── shaders/ # GLSL shader files (if any)
 ├── assets/ # Textures, fonts, sounds (if applicable)
 └── main.cpp # Entry point
+```
